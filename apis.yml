@@ -39,7 +39,6 @@ apis:
   - name: Gaana
     description: "API to retrieve song information from Gaana"
     humanURL: https://github.com/cyberboysumanjay/GaanaAPI
-    baseURL: https://github.com/cyberboysumanjay/GaanaAPI
     tags:
       - Music
     properties:
